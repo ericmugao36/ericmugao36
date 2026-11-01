@@ -1,4 +1,4 @@
-# Eric Mugao | Python Developer | Automation & AI Tools
+# Communication | Python Developer | Automation & AI Tools
 
 **Building practical software solutions through Python automation, API development, data analysis, and applied AI.**
 
